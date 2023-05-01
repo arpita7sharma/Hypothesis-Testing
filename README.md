@@ -11,4 +11,5 @@ A F&B manager wants to determine whether there is any significant difference in 
   Sales of products in four different regions is tabulated for males and females. Find if male-female buyer rations are similar across regions.
 ![image](https://user-images.githubusercontent.com/122975596/235348569-efe6a978-022b-4a5f-a188-d63a9455e89b.png)
 
-![image](https://user-images.githubusercontent.com/122975596/235348673-abc3e34b-60c1-4aad-9f90-5517ffa12dbc.png)
+
+![image](https://user-images.githubusercontent.com/122975596/235427988-243c4c55-0ea6-481f-ae87-84c4080fe676.png)
