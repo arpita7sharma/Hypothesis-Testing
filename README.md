@@ -12,4 +12,5 @@ A F&B manager wants to determine whether there is any significant difference in 
 ![image](https://user-images.githubusercontent.com/122975596/235348569-efe6a978-022b-4a5f-a188-d63a9455e89b.png)
 
 
-![image](https://user-images.githubusercontent.com/122975596/235427988-243c4c55-0ea6-481f-ae87-84c4080fe676.png)
+![image](https://user-images.githubusercontent.com/122975596/235428160-d4ef1a64-9e9c-451b-9caa-399364102caf.png)
+
